@@ -1,0 +1,105 @@
+user_id,status,status_reason,status_1,active_days_since_aquisition_from_merchant,approved_transactions_count_from_merchant,approved_amount_sum_from_merchant,cbk_tpv_ratio,total_billing_amount,total_chargebacks,paid_ratio,elo_frauds_reports,hiper_frauds_reports,master_frauds_reports,visa_frauds_reports,tax_regime_from_cnpj,months_diff
+1158983,inactive,legal_shift,inactive,21,867,54917.5,,,,,0,0,0,0,SIMPLES,47.0
+11401977,active,,approved,29,221,27654.62,,,,,0,0,0,0,MEI,55.0
+20577265,blocked,monitoring,blocked,1,7,3525.0,,,,,0,0,3,0,,0.0
+7542846,active,,approved,120,3814,107748.66,,,,,0,0,0,0,MEI,8.0
+16421045,blocked,monitoring,blocked,5,23,6410.88,,,,,0,0,12,12,SIMPLES,40.0
+6544957,active,,approved,60,467,94382.0,,,,,0,0,0,0,MEI,16.0
+17571274,blocked,monitoring,blocked,4,62,17208.83,,,,,0,0,160,160,SIMPLES,45.0
+9959094,active,,approved,5,139,5494.0,,,,,0,0,0,0,MEI,117.0
+12796758,active,,approved,104,5081,138704.34,,,,,0,0,0,0,LUCRO PRESUMIDO,55.0
+16232651,blocked,monitoring,blocked,4,40,13074.87,,,,,0,0,324,324,LTDA,20.0
+472887,active,,approved,385,2824,488032.49,,,,,0,0,0,0,SIMPLES,62.0
+4210309,active,,approved,33,157,65215.0,,,,,0,0,0,0,SIMPLES,73.0
+9064371,active,,approved,72,108,227155.73,,,,,0,0,0,0,SIMPLES,25.0
+4213027,active,,approved,157,465,289596.22,0.0048428463603564995,1402.47,3,1.0,0,0,0,44,MEI,72.0
+28252,active,,approved,1270,5902,1414908.21,,,,,0,0,0,0,SIMPLES,53.0
+12107450,active,,approved,15,168,8373.35,,,,,0,0,0,0,,6.0
+10586636,active,,approved,95,299,20522.31,,,,,0,0,0,0,LTDA,8.0
+8108419,active,,approved,57,3912,75339.0,,,,,0,0,0,0,MEI,57.0
+8269183,active,,approved,19,23,5762.92,,,,,0,0,0,0,MEI,39.0
+2473274,active,,approved,184,1801,146863.9,,,,,0,0,0,0,MEI,21.0
+16187780,blocked,monitoring,blocked,0,2,69.8,,,,,0,0,0,0,,3.0
+10614224,active,,approved,89,2851,87857.33,,,,,0,0,0,0,MEI,55.0
+7916587,blocked,monitoring,blocked,2,15,9268.0,,,,,0,0,0,0,,
+4129009,active,,approved,93,277,113266.38,,,,,0,0,0,0,SIMPLES,28.0
+390796,active,,approved,488,1502,302516.9,,,,,0,0,672,672,MEI,39.0
+11522744,blocked,monitoring,blocked,35,100,45928.6,0.012785932948097701,587.24,1,1.0,0,0,0,0,MEI,74.0
+11028388,active,,approved,24,38,10740.0,,,,,0,0,0,0,SIMPLES,105.0
+11831197,active,,approved,106,1323,48784.25,,,,,0,0,0,0,MEI,22.0
+11279042,active,,blocked,69,2105,132480.38,0.00059359733116707539,78.64,1,1.0,0,0,0,0,SIMPLES,43.0
+3307893,active,,approved,75,143,279195.49,,,,,0,0,0,0,LUCRO PRESUMIDO,119.0
+8373760,active,,approved,69,1203,66441.63,,,,,0,0,0,0,,9.0
+15109641,active,,approved,62,755,65630.81,,,,,0,0,0,0,LUCRO PRESUMIDO,82.0
+2106873,active,,approved,135,3422,100459.6,0.00058660396816232591,58.93,1,1.0,0,0,0,0,SIMPLES,16.0
+11324561,blocked,monitoring,blocked,14,24,11529.44,,,,,0,0,0,0,SIMPLES,17.0
+224544,active,,approved,339,1220,449293.98,,,,,0,0,0,0,LUCRO PRESUMIDO,83.0
+2314863,active,,approved,23,31,184422.54,,,,,0,0,0,0,SIMPLES,65.0
+9320832,active,,approved,89,251,219674.26,,,,,0,0,0,0,MEI,36.0
+769973,active,,approved,96,540,53278.8,,,,,0,0,0,0,MEI,69.0
+10399970,active,,approved,119,647,101879.56,,,,,0,0,0,0,SIMPLES,17.0
+696989,blocked,monitoring,blocked,135,332,159804.47,,,,,0,0,0,0,MEI,88.0
+12857914,active,,approved,33,199,11450.1,,,,,0,0,0,0,MEI,13.0
+8585099,active,,approved,52,148,36793.0,,,,,0,0,0,0,MEI,24.0
+683650,active,,approved,377,10200,307614.52,,,,,0,0,0,0,SIMPLES,62.0
+8616274,active,,approved,3,7,12366.33,,,,,0,0,0,0,SIMPLES,8.0
+11752460,blocked,monitoring,blocked,1,6,5219.3,,,,,0,0,0,30,MEI,6.0
+10392236,active,,approved,4,422,7233.0,,,,,0,0,0,0,MEI,64.0
+12040943,blocked,monitoring,blocked,31,69,49449.65,,,,,0,0,0,0,LTDA,68.0
+1001292,blocked,monitoring,blocked,108,705,141256.75,0.034741702608901873,4907.5,1,1.0,0,0,17712,17712,MEI,30.0
+4437378,active,,approved,51,171,26975.07,,,,,0,0,0,0,MEI,29.0
+1971532,blocked,monitoring,blocked,34,100,17128.96,0.27017985913914216,4627.9000000000005,1,1.0,0,0,240,240,,19.0
+9387723,active,,inactive,67,372,105464.61,,,,,0,0,0,0,SIMPLES,48.0
+17404766,active,,approved,16,773,24952.5,,,,,0,0,0,0,MEI,7.0
+11086819,active,,approved,156,1567,98540.47,,,,,0,0,36,36,SIMPLES,44.0
+9680689,blocked,monitoring,blocked,1,2,110.0,,,,,0,0,0,0,MEI,17.0
+14161475,active,,approved,28,2158,62458.21,,,,,0,0,0,0,MEI,149.0
+9838676,active,,approved,5,106,2473.01,,,,,0,0,0,0,MEI,9.0
+9809111,active,,approved,17,40,30384.97,,,,,0,0,0,0,MEI,11.0
+272009,active,,approved,145,388,424776.09,,,,,0,0,0,0,MEI,123.0
+126410,active,,approved,188,446,248690.01,,,,,0,0,0,0,SIMPLES,42.0
+8388615,blocked,monitoring,blocked,8,13,25992.44,,,,,0,0,0,0,LUCRO PRESUMIDO,111.0
+16838889,active,,approved,5,41,13911.95,,,,,0,0,108,108,LTDA,146.0
+2587057,active,,approved,268,7170,476889.82,,,,,0,0,0,0,LUCRO PRESUMIDO,152.0
+16143431,blocked,monitoring,blocked,2,11,381.46,,,,,0,0,0,16,LUCRO PRESUMIDO,107.0
+10692069,active,,approved,41,77,31076.0,,,,,0,0,0,0,MEI,37.0
+2454126,active,mpos: nonce mismatch,approved,14,37,4559.0,,,,,0,0,0,0,MEI,145.0
+16035804,blocked,monitoring,blocked,2,4,461.0,,,,,0,0,0,0,MEI,87.0
+12277966,active,,approved,90,1017,61357.09,,,,,0,0,0,0,SIMPLES,31.0
+15979505,active,,approved,100,790,104434.15,,,,,0,0,0,0,SIMPLES,146.0
+7189755,active,,approved,69,530,34266.84,,,,,0,0,0,0,,10.0
+15319601,blocked,monitoring,blocked,11,80,18385.98,,,,,0,0,3120,3120,MEI,4.0
+10429495,active,,approved,23,49,18440.77,,,,,0,0,0,0,,7.0
+594182,blocked,monitoring,blocked,39,1291,35067.47,,,,,0,0,1120,0,SIMPLES,94.0
+12464725,active,,approved,37,1081,56136.19,,,,,0,0,0,0,MEI,7.0
+10997925,active,,approved,11,14,18441.72,,,,,0,0,0,0,MEI,41.0
+9108509,active,mpos: general attestation (1003),approved,14,1669,29226.39,,,,,0,0,0,0,MEI,42.0
+781256,active,,approved,272,2803,285140.28,,,,,0,0,0,0,LTDA,107.0
+10578807,active,,approved,52,93,37881.61,,,,,0,0,0,0,MEI,21.0
+3964229,active,,approved,182,1436,123911.34,,,,,0,0,0,0,MEI,141.0
+13496558,active,,approved,52,139,35411.25,,,,,0,0,0,0,MEI,11.0
+12061803,blocked,monitoring,blocked,2,8,6003.99,,,,,0,0,3,0,MEI,63.0
+10709858,active,,approved,42,481,19358.14,,,,,0,0,0,0,MEI,30.0
+13105833,active,,approved,15,15,14638.93,,,,,0,0,0,0,MEI,83.0
+2341364,active,mpos: general attestation (1003),approved,117,513,45398.44,,,,,0,0,0,0,MEI,23.0
+13021065,active,,approved,4,11,2622.0,,,,,0,0,0,0,MEI,65.0
+303958,active,,approved,147,391,183955.38,,,,,0,0,0,0,MEI,92.0
+22673,active,,approved,188,1458,492680.76,,,,,0,0,0,0,LUCRO PRESUMIDO,54.0
+17731347,active,,approved,19,1082,36482.34,,,,,0,0,0,0,MEI,37.0
+14605707,active,,approved,62,111,51432.91,,,,,0,0,0,40,SIMPLES,122.0
+13024723,active,,approved,42,81,30813.47,,,,,0,0,0,0,MEI,150.0
+12618,blocked,monitoring,blocked,797,3632,1094160.91,0.00041458253155836106,453.62,1,1.0,0,0,0,572,LTDA,142.0
+11821451,active,,approved,6,197,3086.1,,,,,0,0,0,0,MEI,9.0
+9796911,active,,approved,36,885,23168.2,,,,,0,0,0,0,SIMPLES,15.0
+12377559,active,,approved,19,1346,30100.56,,,,,0,0,0,0,MEI,28.0
+10094256,active,,approved,12,67,3422.52,,,,,0,0,0,0,MEI,32.0
+10695722,active,,approved,8,93,8021.01,,,,,0,0,0,0,MEI,7.0
+7238069,active,,approved,252,1053,1276640.66,0.00045289173227492231,578.18000000000006,1,1.0,0,0,68,0,,
+11395072,active,,approved,8,25,11794.0,,,,,0,0,0,0,MEI,44.0
+2523337,active,,approved,104,3134,140816.73,,,,,0,0,0,0,MEI,107.0
+10646868,active,,approved,56,241,12691.27,,,,,0,0,0,0,MEI,19.0
+1400876,active,,approved,217,1070,253394.3,,,,,0,0,0,0,MEI,127.0
+12418095,active,,approved,156,605,102186.23,,,,,0,0,0,0,SIMPLES,56.0
+2237845,active,,approved,71,99,122378.72,,,,,0,0,0,0,SIMPLES,21.0
+8004049,active,,approved,91,311,34356.0,,,,,0,0,0,0,MEI,23.0
+5151628,active,,approved,76,8816,138898.64,,,,,0,0,0,0,MEI,13.0
